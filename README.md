@@ -1,2 +1,13 @@
-# SmsSpam_Filtering
-**SMS** filtering(spam,ham) with Naive Bayes(BernoulliNB, MultinomialNB, GaussianNB) and KNN(K=5) by using Feature Extraction with CountVectorizer & TfidfVectorizer.
+**An implementation of a Spam Filter in Python that uses the Naive Bayes and KNN Model to classify emails as spam or ham.**
+## Classifiers:-
+**Naive Bayes:**
+- BernoulliNB
+- MultinomialNB
+- GaussianNB
+**KNN:**
+- With k=5
+
+**Feature Extraction:**
+- CountVectorizer
+- TfidfVectorizer
+
